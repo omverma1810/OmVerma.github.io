@@ -1,5 +1,4 @@
-# OmVerma.github.io
-my first project as a front-end developer, my own portfolio website.
+
 credits :-
      
         unsplash for the images which have been used.
